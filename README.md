@@ -319,17 +319,7 @@ python traffic_sim.py --lanes 4 --cycles 20 --scenario peak_hour
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
-```bash
-# Fork → Clone → Branch → Code → Test → PR
-git checkout -b feature/your-feature-name
-git commit -m "feat: add your feature"
-git push origin feature/your-feature-name
-```
-
-**Good first issues:** sensor calibration improvements, simulation scenarios, documentation.
 
 ---
 
